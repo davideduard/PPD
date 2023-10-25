@@ -1,0 +1,3 @@
+/Users/eduarddavid/workspace/PPD/tema-lab-1-cpp/cmake-build-debug/CMakeFiles/tema_lab_1.dir
+/Users/eduarddavid/workspace/PPD/tema-lab-1-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eduarddavid/workspace/PPD/tema-lab-1-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
